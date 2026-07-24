@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "code": 10000,
+  "message": "操作成功！",
+  "data": [
+    {
+      "id": "1635926396249358337",
+      "name": "北京大学第三医院本部",
+      "depTypeDicCodes": null,
+      "depNumber": null,
+      "status": "1",
+      "description": "北京大学第三医院本部",
+      "address": "北京市海淀区花园北路49号",
+      "longitude": null,
+      "latitude": null,
+      "telephone": "010-82266699",
+      "email": null,
+      "updateTime": "2023-03-30 19:38:45"
+    },
+    {
+      "id": "1635926396190638082",
+      "name": "第二门诊部",
+      "depTypeDicCodes": null,
+      "depNumber": null,
+      "status": "1",
+      "description": "第二门诊部(育新花园)",
+      "address": "北京市海淀区育新花园小区23号楼",
+      "longitude": null,
+      "latitude": null,
+      "telephone": "010-82266699",
+      "email": null,
+      "updateTime": "2023-03-15 16:50:21"
+    },
+    {
+      "id": "1635926396140306433",
+      "name": "机场院区",
+      "depTypeDicCodes": null,
+      "depNumber": null,
+      "status": "1",
+      "description": "首都机场院区(岗山路)",
+      "address": "北京市朝阳区岗山路9号",
+      "longitude": null,
+      "latitude": null,
+      "telephone": "010-82266699",
+      "email": null,
+      "updateTime": "2023-03-15 16:50:21"
+    },
+    {
+      "id": "1635926395959951361",
+      "name": "北方院区",
+      "depTypeDicCodes": null,
+      "depNumber": null,
+      "status": "1",
+      "description": "北方院区(紫竹院)",
+      "address": "北京市海淀区车道沟10号",
+      "longitude": null,
+      "latitude": null,
+      "telephone": "010-82266699",
+      "email": null,
+      "updateTime": "2023-03-15 16:50:21"
+    },
+    {
+      "id": "1635926395846705153",
+      "name": "中央党校院区",
+      "depTypeDicCodes": null,
+      "depNumber": null,
+      "status": "1",
+      "description": "中央党校院区(肖家河)",
+      "address": "北京市海淀区大有庄100号",
+      "longitude": null,
+      "latitude": null,
+      "telephone": "010-82266699",
+      "email": null,
+      "updateTime": "2023-03-15 16:50:21"
+    },
+    {
+      "id": "1935274981430579202",
+      "name": "海淀北部院区",
+      "depTypeDicCodes": null,
+      "depNumber": null,
+      "status": "1",
+      "description": "海淀北部院区(西北旺)",
+      "address": "北京市海淀区六里屯南路6号院1号楼",
+      "longitude": null,
+      "latitude": null,
+      "telephone": "010-82266699",
+      "email": null,
+      "updateTime": "2025-06-18 17:54:45"
+    }
+  ]
+}
