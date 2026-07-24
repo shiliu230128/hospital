@@ -1,0 +1,4213 @@
+[
+  {
+    "id": "pumch",
+    "name": "中国医学科学院北京协和医院",
+    "shortName": "北京协和医院",
+    "officialSite": "https://www.pumch.cn",
+    "candidates": [
+      {
+        "tag": "img",
+        "url": "https://www.pumch.cn/Uploads/Picture/2019/12/04/s5de730b6b91ef.jpg",
+        "alt": "协和微信",
+        "title": "协和微信",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumch-0.jpg"
+      },
+      {
+        "tag": "li",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "l5",
+        "id": "ycyx"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "beijing_hospital",
+    "name": "北京医院",
+    "shortName": "北京医院",
+    "officialSite": "https://www.bjhmoh.cn",
+    "candidates": [
+      {
+        "tag": "a",
+        "url": "https://www.bjhmoh.cn/index.php?r=archives/default/wx&t=1784619561",
+        "alt": "",
+        "title": "",
+        "class": "fours",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/beijing_hospital-0.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://hryidongweixin.bjhmoh.cn:8081/zp.html#/",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/beijing_hospital-1.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://hryidongweixin.bjhmoh.cn:8081/zp.html#/channel/04",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/beijing_hospital-2.img"
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjhmoh.cn/files/201312/20131223/20131223_0c763fada4f8ffff3657trszNAvFWXaC.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/beijing_hospital-3.jpg"
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjhmoh.cn/files/202311/20231107/20231107_fcb57cee89067675e758rwXQ9l9YSbfX.jpg.thumb.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/beijing_hospital-4.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "china_japan_friendship",
+    "name": "中日友好医院",
+    "shortName": "中日友好医院",
+    "officialSite": "https://www.zryhyy.com.cn",
+    "candidates": [],
+    "error": ""
+  },
+  {
+    "id": "pkufh",
+    "name": "北京大学第一医院",
+    "shortName": "北大医院",
+    "officialSite": "https://www.pkufh.com",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.pkufh.com/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkufh-1.jpg"
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "code_wx code",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "code_wx_win code_win",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "code_wx_icon",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "code_wx_icon",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "code_wx_icon",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "code_wx_icon",
+        "id": ""
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "pkuph",
+    "name": "北京大学人民医院",
+    "shortName": "北大人民医院",
+    "officialSite": "https://www.pkuph.cn",
+    "candidates": [
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "gwewmLayer gl1",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "gwewmLayer gl2",
+        "id": ""
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "puh3",
+    "name": "北京大学第三医院",
+    "shortName": "北医三院",
+    "officialSite": "https://www.puh3.net.cn",
+    "candidates": [
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "img_hezi",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.puh3.net.cn/images/weixintupian_20240124135724.png",
+        "alt": "",
+        "title": "",
+        "class": "img_n",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/puh3-1.png"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/PpqpkS_u1veKy9Jzzm6sdA",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/puh3-2.img"
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "img_hezi",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.puh3.net.cn/images/weixintupian_20260525091939_153_941.png",
+        "alt": "",
+        "title": "",
+        "class": "img_n",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/puh3-4.png"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/PpqpkS_u1veKy9Jzzm6sdA",
+        "alt": "",
+        "title": "",
+        "class": "a",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/puh3-5.img"
+      },
+      {
+        "tag": "li",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewm",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewmbox",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewmbox",
+        "id": ""
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "bj_tongren",
+    "name": "首都医科大学附属北京同仁医院",
+    "shortName": "北京同仁医院",
+    "officialSite": "https://www.trhos.com",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjtrhos.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_tongren-1.jpg"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/qEA6sbY9lEN5ikOkRDcd-A",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_tongren-2.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/qEA6sbY9lEN5ikOkRDcd-A",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_tongren-3.img"
+      },
+      {
+        "tag": "a",
+        "url": "javascript:void(0)",
+        "alt": "",
+        "title": "",
+        "class": "weixinBtn",
+        "id": "",
+        "downloadError": "<urlopen error unknown url type: javascript>"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "bj_chaoyang",
+    "name": "首都医科大学附属北京朝阳医院",
+    "shortName": "北京朝阳医院",
+    "officialSite": "https://www.bjcyh.com.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjcyh.com.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-1.jpg"
+      },
+      {
+        "tag": "a",
+        "url": "https://www.bjcyh.com.cn/Html/News/Articles/67197.html",
+        "alt": "",
+        "title": "北京朝阳医院微信小程序使用指南",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-2.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/duAjKbBII4w9c47LUEmzug",
+        "alt": "",
+        "title": "高温来袭，职业人群请警惕热射病——别把“中暑”当小事",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-3.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/BWNHuEH9bhHPoZ5qmU0M6w",
+        "alt": "",
+        "title": "全民科学防晒·护肤第一道防线",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-4.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/87hhjSpT0YzS6aLRawUv0g",
+        "alt": "",
+        "title": "击退足部真菌 告别反复脚气",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-5.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/_nVNgv6oxQ_wpD9DaQoGuA",
+        "alt": "",
+        "title": "生长痛不可怕 温柔守护孩子长高",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-6.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/EX-L1trtgX0E_VTH2Q6n0Q",
+        "alt": "",
+        "title": "金银花与玫瑰花的妙用",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-7.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/-DXjxrFXOpinVNvFe4jCQQ",
+        "alt": "",
+        "title": "分龄护脊指南：不同年龄段，脊柱侧弯防控重点完全不同",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-8.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/H7UN1chPtHQmhqFxfR2_ZA",
+        "alt": "",
+        "title": "期末倒计时！5条“减压小妙招”",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-9.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/aQCjH2YU-bRUpxhLD1EENw",
+        "alt": "",
+        "title": "北京朝阳医院健康小贴士",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-10.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/c081unT-MF3aVObr3dlDgA",
+        "alt": "",
+        "title": "端午吃粽一时爽 节日肠胃别踩坑",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-11.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/rUQbee2PuzB_Rs3NZ7-4Kg",
+        "alt": "",
+        "title": "睡眠护脊指南：睡不好，脊柱侧弯好不了",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-12.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/sygPLxtn6uaU1iA4ESuigg",
+        "alt": "",
+        "title": "瞄准“隐形杀手”：高压氧如何救治瓦斯爆炸伤者",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-13.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/GO-IVMh2zdfrTOXoxhulFw",
+        "alt": "",
+        "title": "老人浑身发软、走路没劲？多半是肌少症！",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-14.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/uqCvyncXfKpQfth8lPM2eA",
+        "alt": "",
+        "title": "科学运动不伤身 规范护骨更健康",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-15.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/uqCvyncXfKpQfth8lPM2eA",
+        "alt": "",
+        "title": "科学运动不伤身 规范护骨更健康",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-16.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/knkWqFTi4cvg2A6qQHdLCg",
+        "alt": "",
+        "title": "您了解“镉”吗？一次检测，或许能发现长期被忽视的健康风险",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-17.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/MQAefYim1wPer-B8L4khLA",
+        "alt": "",
+        "title": "一入“鲜”门深似海，常吃水产品益处多",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-18.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/GAo7F6ZE3ti0TgUZADSmrQ",
+        "alt": "",
+        "title": "为心脏“架桥”铺路 守护生命通道 | 5·18血管健康日特别科普",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-19.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/p63DSNlsU-e7WyQYP6e61A",
+        "alt": "",
+        "title": "多吃蔬果 多健康｜一份超实用的吃蔬果指南，照着吃就对了",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-20.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/zdQthRspmstVgO0Nj2aJQQ",
+        "alt": "",
+        "title": "骨质疏松别只喝牛奶！这几件事比补钙管用",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-21.img"
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjcyh.com.cn/Content/Areas/Hospitals/images/wx1.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_chaoyang-22.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "bj_friendship",
+    "name": "首都医科大学附属北京友谊医院",
+    "shortName": "北京友谊医院",
+    "officialSite": "https://www.bfh.com.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bfh.com.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_friendship-1.jpg"
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "header_QRCode"
+      },
+      {
+        "tag": "a",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "weixin",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bfh.com.cn/Content/Areas/Hospitals/images/news/weixin.jpg",
+        "alt": "",
+        "title": "",
+        "class": "weixin_img",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_friendship-4.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "bj_anzhen",
+    "name": "首都医科大学附属北京安贞医院",
+    "shortName": "北京安贞医院",
+    "officialSite": "https://www.anzhen.org",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.anzhen.org.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_anzhen-1.jpg"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/xB3ZbX5gsP4Jt5IyywgxXw",
+        "alt": "",
+        "title": "安贞青年科普微课堂 | 认识血栓，拒绝被“栓”，让生命通畅",
+        "class": "img_box csadsd",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_anzhen-2.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/xB3ZbX5gsP4Jt5IyywgxXw",
+        "alt": "",
+        "title": "安贞青年科普微课堂 | 认识血栓，拒绝被“栓”，让生命通畅",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_anzhen-3.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/k-XJMkVUwQdugzrJg_snAw",
+        "alt": "",
+        "title": "安贞青年科普微课堂 | 心脏瓣膜术后华法林用药小常识",
+        "class": "img_box csadsd",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_anzhen-4.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/k-XJMkVUwQdugzrJg_snAw",
+        "alt": "",
+        "title": "安贞青年科普微课堂 | 心脏瓣膜术后华法林用药小常识",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_anzhen-5.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/GGkJjIWG__6wmBykfs0FmQ",
+        "alt": "",
+        "title": "安贞青年科普微课堂 | 艾森曼格综合征",
+        "class": "img_box csadsd",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_anzhen-6.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/GGkJjIWG__6wmBykfs0FmQ",
+        "alt": "",
+        "title": "安贞青年科普微课堂 | 艾森曼格综合征",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_anzhen-7.img"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "xuanwu",
+    "name": "首都医科大学宣武医院",
+    "shortName": "宣武医院",
+    "officialSite": "https://www.xwhosp.com.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "http://www.xwhosp.com.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/xuanwu-1.jpg"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/4dWzU5svETVSfbB9Bdk3Tw",
+        "alt": "",
+        "title": "",
+        "class": "sy2_tit ",
+        "id": "339",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/xuanwu-2.img"
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ck weixin",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.xwhosp.com.cn/Sites/Uploaded/UserUpLoad/20160708/20160708112429.jpg",
+        "alt": "",
+        "title": "",
+        "class": "wx_boximg",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/xuanwu-4.jpg"
+      },
+      {
+        "tag": "img",
+        "url": "https://www.xwhosp.com.cn/Sites/Uploaded/UserUpLoad/20251203/20251203172254.jpg",
+        "alt": "",
+        "title": "",
+        "class": "wx_boximg",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/xuanwu-5.jpg"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/4dWzU5svETVSfbB9Bdk3Tw",
+        "alt": "",
+        "title": "",
+        "class": "icon_5",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/xuanwu-6.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/I079an6OU91C6rnu1n6V9w",
+        "alt": "",
+        "title": "",
+        "class": "icon_7",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/xuanwu-7.img"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "tiantan",
+    "name": "首都医科大学附属北京天坛医院",
+    "shortName": "北京天坛医院",
+    "officialSite": "https://www.bjtth.org",
+    "candidates": [
+      {
+        "tag": "img",
+        "url": "https://www.bjtth.org/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/tiantan-0.jpg"
+      },
+      {
+        "tag": "a",
+        "url": "https://static.cdsb.com/micropub/Articles/202507/c45a6d413972da25f0b008347b8ea917.html?wxopenid=oBCTzjtZ7xb-YWk9L_XPminxBS0o",
+        "alt": "",
+        "title": "【红星新闻】如何发挥大医院在分级诊疗体系中的作用？天坛医院院长答红星新闻（25.7.28）",
+        "class": "img_box",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/tiantan-1.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://static.cdsb.com/micropub/Articles/202507/c45a6d413972da25f0b008347b8ea917.html?wxopenid=oBCTzjtZ7xb-YWk9L_XPminxBS0o",
+        "alt": "",
+        "title": "【红星新闻】如何发挥大医院在分级诊疗体系中的作用？天坛医院院长答红星新闻（25.7.28）",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/tiantan-2.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/K-Lc07uNGfHxuYBiOQvUFQ",
+        "alt": "",
+        "title": "吨吨吨……这些“续命神器”能敞开喝吗",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/tiantan-3.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=514753690925970771&t=1781141602234&toc_style_id=video_default&track_id=C1966770-3DB1-452A-B377-45B52CBD058F_802835369793&share_to=wechat",
+        "alt": "",
+        "title": "【央视网】朝“问”健康 颈部哪里不能按？专家划清安全红线（2026-06-11）",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/tiantan-4.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=1086235307810828287&t=1781141612226&toc_style_id=video_default&track_id=170892E8-1735-4D4D-9A2F-356CED892C93_802835360500&share_to=wechat",
+        "alt": "",
+        "title": "【央视网】朝“问”健康 按摩并非人人适宜 五类人群要慎做",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/tiantan-5.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://content-static.cctvnews.cctv.com/snow-book/video.html?item_id=15897991512677224585&t=1781141481208&toc_style_id=video_default&track_id=C5F10DE3-5906-4B67-BCDE-7484DD74A8D8_802835348951&share_to=wechat",
+        "alt": "",
+        "title": "【央视网】朝“问”健康 只是按个肩颈 为何会突发血栓（2026-06-11）",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/tiantan-6.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=2904096590982325942&toc_style_id=feeds_default&track_id=C16B8990-F1E0-4E1D-AE4E-1700A20AA7F9_802834916916&share_to=wechat",
+        "alt": "",
+        "title": "【央视新闻客户端】朝“问”健康丨只是按个肩颈 为何会突发血栓？专家划清安全红线（2026-06-11）",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/tiantan-7.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://www.bjtth.org/Html/News/Articles/212747.html",
+        "alt": "",
+        "title": "一文教会您如何使用“天坛病案复印”微信小程序复印病历",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/tiantan-8.img"
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjtth.org/Content/Areas/Common/images/微信公众号.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "downloadError": "'ascii' codec can't encode characters in position 33-37: ordinal not in range(128)"
+      },
+      {
+        "tag": "a",
+        "url": "https://static.cdsb.com/micropub/Articles/202507/c45a6d413972da25f0b008347b8ea917.html?wxopenid=oBCTzjtZ7xb-YWk9L_XPminxBS0o",
+        "alt": "",
+        "title": "【红星新闻】如何发挥大医院在分级诊疗体系中的作用？天坛医院院长答红星新闻（25.7.28）",
+        "class": "img_box",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/tiantan-10.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://static.cdsb.com/micropub/Articles/202507/c45a6d413972da25f0b008347b8ea917.html?wxopenid=oBCTzjtZ7xb-YWk9L_XPminxBS0o",
+        "alt": "",
+        "title": "【红星新闻】如何发挥大医院在分级诊疗体系中的作用？天坛医院院长答红星新闻（25.7.28）",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/tiantan-11.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://static.cdsb.com/micropub/Articles/202507/c45a6d413972da25f0b008347b8ea917.html?wxopenid=oBCTzjtZ7xb-YWk9L_XPminxBS0o",
+        "alt": "",
+        "title": "点击查看详细",
+        "class": "detail",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/tiantan-12.img"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "shijitan",
+    "name": "首都医科大学附属北京世纪坛医院",
+    "shortName": "北京世纪坛医院",
+    "officialSite": "https://www.bjsjth.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjsjth.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/shijitan-1.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "jishuitan",
+    "name": "首都医科大学附属北京积水潭医院",
+    "shortName": "北京积水潭医院",
+    "officialSite": "https://www.jst-hosp.com.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.jst-hosp.com.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-1.jpg"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/RKJfDuHgfUGKb0kuM532-g",
+        "alt": "",
+        "title": "第九届积水潭儿童髋关节学术研讨会（JPHS 2026）将在京启幕",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-2.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/RKJfDuHgfUGKb0kuM532-g",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-3.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/L4EQdEW0Rs4dhKilrJa0WQ",
+        "alt": "",
+        "title": "医患故事丨95岁患者的三年守护：一封感谢信背后的“医者仁心”",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-4.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/L4EQdEW0Rs4dhKilrJa0WQ",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-5.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/xzE6tsmVzAy5bLdLF1hIiQ",
+        "alt": "",
+        "title": "北京积水潭医院保膝外科黄野团队在《Journal of Arthroplasty》发表外侧单髁置换术患者满意度研究",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-6.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/xzE6tsmVzAy5bLdLF1hIiQ",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-7.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/hfmhjDODtfgX7BEqOeZUGw",
+        "alt": "",
+        "title": "学术交流丨助力老年护理服务提质增效——北京积水潭医院举办老年专业护理管理培训班",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-8.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/hfmhjDODtfgX7BEqOeZUGw",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-9.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/slLFnGMODtFpSdAZWf9pog",
+        "alt": "",
+        "title": "北京积水潭医院产科成功实施“外倒转术”，助力38岁孕妈妈圆梦自然分娩",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-10.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/slLFnGMODtFpSdAZWf9pog",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-11.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/VQ8er6gNp-uqWlyrMzne3g",
+        "alt": "",
+        "title": "北京积水潭医院挂号小程序升级！线上问诊、线上缴费全覆盖",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-12.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://www.jst-hosp.com.cn/Html/News/Articles/36034.html",
+        "alt": "",
+        "title": "北京积水潭医院互联网医院服务",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-13.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/YQ7AxKaqwxtOOJGhEsVKlw",
+        "alt": "",
+        "title": "北京积水潭医院回龙观院区门诊交通路线",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-14.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Vl5CpvzVaagNQwpH1pWN6A",
+        "alt": "",
+        "title": "手机就能查影像！北京积水潭医院电子胶片查询攻略来啦",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-15.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Vl5CpvzVaagNQwpH1pWN6A",
+        "alt": "",
+        "title": "",
+        "class": "det",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-16.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/h8QE8fpc4ZWNtOyiFN_3Wg",
+        "alt": "",
+        "title": "北京积水潭医院2025年科学孕育大讲堂",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-17.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://www.jst-hosp.com.cn/Html/News/Articles/33814.html",
+        "alt": "",
+        "title": "北京积水潭医院互联网医院服务",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-18.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/VQ8er6gNp-uqWlyrMzne3g",
+        "alt": "",
+        "title": "北京积水潭医院挂号小程序升级！线上问诊、线上缴费全覆盖",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-19.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/VQ8er6gNp-uqWlyrMzne3g",
+        "alt": "",
+        "title": "",
+        "class": "det",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-20.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/hqD4-AiTw5XZH-Dkrxecuw",
+        "alt": "",
+        "title": "改善服务丨北京积水潭医院心理行为医学科3月14日起开设周末门诊",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-21.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/hqD4-AiTw5XZH-Dkrxecuw",
+        "alt": "",
+        "title": "",
+        "class": "det",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-22.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Xi9xf5s50iFvCZ_yGf1meQ",
+        "alt": "",
+        "title": "改善服务丨北京积水潭医院开设围手术期卒中高危筛查门诊",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-23.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/OBDs3maCfcdR5ZYF1N_fYg",
+        "alt": "",
+        "title": "改善服务丨北京积水潭医院儿科小夜门诊暖心开诊",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-24.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/8BsVvdqYTnJUFg8yS3PcSQ",
+        "alt": "",
+        "title": "健康过大年 | 冬奥赛场运动防护秘籍来了！春节上冰雪，照做少受伤",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-25.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/8BsVvdqYTnJUFg8yS3PcSQ",
+        "alt": "",
+        "title": "",
+        "class": "det",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-26.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/qeqXkB4MO7B9nne0y7CRMg",
+        "alt": "",
+        "title": "媒体聚焦丨用热水袋致烫伤，当心“温暖杀手”！",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-27.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/-pzT-bShWxWw61qh5gVu2w",
+        "alt": "",
+        "title": "北京积水潭医院接诊63名雪天摔伤患者，医生提醒",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-28.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/5e_HtelCgwaRTGAjfOBJgg",
+        "alt": "",
+        "title": "积医科普丨如何把钙补到位？药师教你科学使用钙补充剂→",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-29.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/5e_HtelCgwaRTGAjfOBJgg",
+        "alt": "",
+        "title": "",
+        "class": "det",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-30.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/r-fuAyuYNndNiPYqWUnOOw",
+        "alt": "",
+        "title": "积医科普｜过敏性鼻炎怎么区分，如何用药？",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-31.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/IjKlV1-aA9PghZUGvCP4eQ",
+        "alt": "",
+        "title": "首都除夕 护卫健康丨春节假期旅行，必备小药包里有什么",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-32.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/fLp0AixZU43H-PtP5jmRSw",
+        "alt": "",
+        "title": "北京积水潭医院荣获北京市卫生健康委“两优一先”多项表彰",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-33.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/fLp0AixZU43H-PtP5jmRSw",
+        "alt": "",
+        "title": "北京积水潭医院荣获北京市卫生健康委“两优一先”多项表彰",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-34.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/fLp0AixZU43H-PtP5jmRSw",
+        "alt": "",
+        "title": "北京积水潭医院荣获北京市卫生健康委“两优一先”多项表彰",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-35.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/JzrwAkD4TwwUmcXwwk5_YQ",
+        "alt": "",
+        "title": "北京积水潭医院召开庆祝中国共产党成立105周年暨“两优一先”表彰大会",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-36.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/ttcD3nwzLLKv-tlOVIbbQw",
+        "alt": "",
+        "title": "医企联动送健康 科技赋能向未来——北京积水潭医院与联想总部开展共建活动",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-37.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Y9wCsppv7oxWakmcZKzIdA",
+        "alt": "",
+        "title": "党建活动丨党建引领聚合力 医电服务惠乡村——北京积水潭医院多个党支部开展“电靓和美乡村”主题党日志愿服务活动",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-38.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/9lnmkVheBoXARtcjP6u5rA",
+        "alt": "",
+        "title": "党建活动丨赓续红色血脉 践行初心使命——北京积水潭医院联合开展主题党日活动",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-39.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/ttcD3nwzLLKv-tlOVIbbQw",
+        "alt": "",
+        "title": "医企联动送健康 科技赋能向未来——北京积水潭医院与联想总部开展共建活动",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-40.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/cbli6GcglQ82DK2dcvIV-Q",
+        "alt": "",
+        "title": "深耕基层强纪律 清风护航践初心——北京积水潭医院纪律与行风教育进科室活动扎实推进",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-41.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/cbli6GcglQ82DK2dcvIV-Q",
+        "alt": "",
+        "title": "",
+        "class": "det",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-42.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/gMIItIO89qwy6rUWnuq2LA",
+        "alt": "",
+        "title": "高墙警钟鸣初心 廉洁自律筑底线——北京积水潭医院开展警示教育活动",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-43.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/YD5PCy7rk1dmrge5Sbc65A",
+        "alt": "",
+        "title": "强化履职担当  筑牢纪律屏障——北京积水潭医院纪委召开2025年度党支部纪检委员述职工作会",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-44.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/ZgnTmnkn0HvEMGCMIYyszw",
+        "alt": "",
+        "title": "国内首个肩关节置换机器人系统亮相中关村论坛",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-45.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/ZgnTmnkn0HvEMGCMIYyszw",
+        "alt": "",
+        "title": "",
+        "class": "det",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-46.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/LOTORHl_rpxb8ToZ0n8t4A",
+        "alt": "",
+        "title": "里程碑！北京积水潭医院首次接受美国FDA核查，以零缺陷圆满通过",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-47.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/p-MWba8_9XMO3f-pz4bC1Q",
+        "alt": "",
+        "title": "火花闪耀！北京积水潭医院第五届医工结合科技创新活动圆满落幕",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-48.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/54ZYRCt8ESA_cAdaeQ6YLA",
+        "alt": "",
+        "title": "北京积水潭医院获批2025年北京市科技成果转化概念验证平台",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-49.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/se8LSO8NmEZlMuFyPlQTnA",
+        "alt": "",
+        "title": "区域引领丨北京积水潭医院组织召开2026年度昌平区医疗质控中心工作会",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-50.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/se8LSO8NmEZlMuFyPlQTnA",
+        "alt": "",
+        "title": "",
+        "class": "det",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-51.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/iWSsnTkxrJuf3bq31OkOeA",
+        "alt": "",
+        "title": "学术交流｜2026年度市骨科质控中心工作会议顺利举行",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-52.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/GK1HEjqLSGd-Ez6NzQ39ig",
+        "alt": "",
+        "title": "聚焦医院管理创新，共谋高质量发展——北京积水潭医院建院70周年暨高质量发展大会医院管理分会场圆满召开",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-53.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/3zqb0QCk_EnhPHIR3zNeyQ",
+        "alt": "",
+        "title": "薪火相传七十载 医路笃行向未来——北京积水潭医院建院70周年暨高质量发展大会圆满召开",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-54.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/dhcdMwmJ08vOq39NU9P93Q",
+        "alt": "",
+        "title": "学术交流丨北京市骨科质控中心专委会召开工作会议 总结部署年度任务推动医疗质量提升",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-55.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/FHIEqV6tRidflDrpLtU7cQ",
+        "alt": "",
+        "title": "意大利机器人国家能力中心专家团访问北京积水潭医院",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-56.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/DkPZiXLCPeYlcAXo88zUtw",
+        "alt": "",
+        "title": "科研成果丨北京积水潭医院保膝外科团队在骨科权威期刊JBJS发表最新研究成果",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-57.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/DkPZiXLCPeYlcAXo88zUtw",
+        "alt": "",
+        "title": "",
+        "class": "det",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-58.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/hG80iix3lnlqRx5AqqM3tA",
+        "alt": "",
+        "title": "北京积水潭医院牛晓辉教授团队《The Lancet》首次全球多中心研究证实匹米替尼治疗腱鞘巨细胞瘤安全有效",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-59.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Hb2RBv_x6UoiCkVD1aDZJQ",
+        "alt": "",
+        "title": "科研成果丨肌肉再生领域取得新进展：金纳米颗粒调节巨噬细胞免疫极化促进骨骼肌修复再生",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-60.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/pymrLS3ToOEYy7Oexj5BFg",
+        "alt": "",
+        "title": "招聘公告丨首都医科大学附属北京积水潭医院2026年公开招聘公告（第四批）",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-61.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/obgQvObE9lzE2vaRH6EkqQ",
+        "alt": "",
+        "title": "招聘公告丨首都医科大学附属北京积水潭医院2025年公开招聘公告（第二批）",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-62.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/7DnkJ2_Xq3vrPkjzxWg70A",
+        "alt": "",
+        "title": "北京积水潭医院建院70周年暨高质量发展大会医政管理学术交流活动圆满举办",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-63.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/7DnkJ2_Xq3vrPkjzxWg70A",
+        "alt": "",
+        "title": "",
+        "class": "det",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-64.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/dhcdMwmJ08vOq39NU9P93Q",
+        "alt": "",
+        "title": "学术交流丨北京市骨科质控中心专委会召开工作会议 总结部署年度任务推动医疗质量提升",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-65.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Vl5CpvzVaagNQwpH1pWN6A",
+        "alt": "",
+        "title": "手机就能查影像！北京积水潭医院电子胶片查询攻略来啦",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-66.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Vl5CpvzVaagNQwpH1pWN6A",
+        "alt": "",
+        "title": "",
+        "class": "det",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-67.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/VQ8er6gNp-uqWlyrMzne3g",
+        "alt": "",
+        "title": "北京积水潭医院挂号小程序升级！线上问诊、线上缴费全覆盖",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-68.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/h8QE8fpc4ZWNtOyiFN_3Wg",
+        "alt": "",
+        "title": "北京积水潭医院2025年科学孕育大讲堂",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-69.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/mXm6kNczg2oTZx0B8kJpxg",
+        "alt": "",
+        "title": "北京积水潭医院回龙观院区西楼办理住院流程",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-70.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/RKJfDuHgfUGKb0kuM532-g",
+        "alt": "",
+        "title": "第九届积水潭儿童髋关节学术研讨会（JPHS 2026）将在京启幕",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-71.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/L4EQdEW0Rs4dhKilrJa0WQ",
+        "alt": "",
+        "title": "医患故事丨95岁患者的三年守护：一封感谢信背后的“医者仁心”",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-72.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/xzE6tsmVzAy5bLdLF1hIiQ",
+        "alt": "",
+        "title": "北京积水潭医院保膝外科黄野团队在《Journal of Arthroplasty》发表外侧单髁置换术患者满意度研究",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-73.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/hfmhjDODtfgX7BEqOeZUGw",
+        "alt": "",
+        "title": "学术交流丨助力老年护理服务提质增效——北京积水潭医院举办老年专业护理管理培训班",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-74.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/slLFnGMODtFpSdAZWf9pog",
+        "alt": "",
+        "title": "北京积水潭医院产科成功实施“外倒转术”，助力38岁孕妈妈圆梦自然分娩",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-75.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/ydPlW2R5o6peZYC1cRLzzA",
+        "alt": "",
+        "title": "积医“潭”健康丨头晕乏力是中暑还是中风？这个误区很多人中招",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-76.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/eMcvDlVPSL7MnbxDnwG-gA",
+        "alt": "",
+        "title": "招生公告丨 北京积水潭医院脊柱外科进修医师招生公告",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-77.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/6txlkQB3F3pnF3UFs7IzkQ",
+        "alt": "",
+        "title": "解“医”忧，暖“童”心——北京积水潭医院三院区暑期托管班同步开班",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-78.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/C6ZXkki9nYAtTWCtHWqseg",
+        "alt": "",
+        "title": "国际交流丨希腊血管外科专家到访北京积水潭医院开展深静脉血栓专题学术研讨",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-79.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/0jFk43T9MH0QVz4P65qEcw",
+        "alt": "",
+        "title": "国家骨科医学中心足踝外科分联盟及北京围手术期医学学会足踝外科专业委员会在京成立，聚力推动学科高质量发展",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-80.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/SgFIQJOIT2MgXNqudXT4aQ",
+        "alt": "",
+        "title": "北京积水潭医院博士后管延军入选2026年度“博新计划”",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-81.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/i_2pIp5ELMbRun3ljfg7YA",
+        "alt": "",
+        "title": "我的医路“微长征” | 《健康报》连载！积医学子以临床感悟解读新时代长征精神",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-82.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/47FatouPW6iQOo_az_B0Ow",
+        "alt": "",
+        "title": "积医“潭”健康丨全身疼痛却查不出原因，可能是一种被忽视的慢性病",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-83.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/50fDjjj95uzrH09PlhmRDg",
+        "alt": "",
+        "title": "让拉萨群众“看病不远行”——北京积水潭医院医疗队开展义诊、讲课等系列公益活动",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-84.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/coibUZMT9T3xoycNR4YEVw",
+        "alt": "",
+        "title": "BTV北京新闻/2026.06.17/北京一八旬老人险些窒息，竟是因为它！很多老人都在用！",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-85.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/nU1X0Y1hhF-zUT7L2H40zg",
+        "alt": "",
+        "title": "骨科在线/2026.05.31/冯超：儿童运动医学，为什么必须独立成科？",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-86.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/fLp0AixZU43H-PtP5jmRSw",
+        "alt": "",
+        "title": "北京积水潭医院荣获北京市卫生健康委“两优一先”多项表彰",
+        "class": "img",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-87.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/fLp0AixZU43H-PtP5jmRSw",
+        "alt": "",
+        "title": "北京积水潭医院荣获北京市卫生健康委“两优一先”多项表彰",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-88.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/fLp0AixZU43H-PtP5jmRSw",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-89.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/JzrwAkD4TwwUmcXwwk5_YQ",
+        "alt": "",
+        "title": "北京积水潭医院召开庆祝中国共产党成立105周年暨“两优一先”表彰大会",
+        "class": "img",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-90.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/JzrwAkD4TwwUmcXwwk5_YQ",
+        "alt": "",
+        "title": "北京积水潭医院召开庆祝中国共产党成立105周年暨“两优一先”表彰大会",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-91.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/JzrwAkD4TwwUmcXwwk5_YQ",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-92.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/z5060_RXHklkCM6YecUXzg",
+        "alt": "",
+        "title": "北京积水潭医院院长蒋协远参加国家卫生健康委新闻发布会，并介绍“时令节气与健康”",
+        "class": "img",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-93.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/z5060_RXHklkCM6YecUXzg",
+        "alt": "",
+        "title": "北京积水潭医院院长蒋协远参加国家卫生健康委新闻发布会，并介绍“时令节气与健康”",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-94.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/z5060_RXHklkCM6YecUXzg",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-95.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/kNZHZdjdF-oOlRcwKGcccA",
+        "alt": "",
+        "title": "资源下沉惠民生，京聊共建国家区中见实效",
+        "class": "img",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-96.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/kNZHZdjdF-oOlRcwKGcccA",
+        "alt": "",
+        "title": "资源下沉惠民生，京聊共建国家区中见实效",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-97.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/kNZHZdjdF-oOlRcwKGcccA",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-98.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/ZgnTmnkn0HvEMGCMIYyszw",
+        "alt": "",
+        "title": "国内首个肩关节置换机器人系统亮相中关村论坛",
+        "class": "img",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-99.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/ZgnTmnkn0HvEMGCMIYyszw",
+        "alt": "",
+        "title": "国内首个肩关节置换机器人系统亮相中关村论坛",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-100.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/ZgnTmnkn0HvEMGCMIYyszw",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-101.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/q_qrJZBLlmQGaAPP0OJIFw",
+        "alt": "",
+        "title": "汇聚前沿智慧 共话骨科未来",
+        "class": "img",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-102.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/q_qrJZBLlmQGaAPP0OJIFw",
+        "alt": "",
+        "title": "汇聚前沿智慧 共话骨科未来",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-103.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/q_qrJZBLlmQGaAPP0OJIFw",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-104.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/I696ZpKFy_5IOMhdWz8sWA",
+        "alt": "",
+        "title": "北京积水潭医院党委部署启动树立和践行正确政绩观学习教育",
+        "class": "img",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-105.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/I696ZpKFy_5IOMhdWz8sWA",
+        "alt": "",
+        "title": "北京积水潭医院党委部署启动树立和践行正确政绩观学习教育",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-106.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/I696ZpKFy_5IOMhdWz8sWA",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-107.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/pyDWPcijf8zLmQM7JMVWEQ",
+        "alt": "",
+        "title": "北京积水潭医院召开2026年工作部署会",
+        "class": "img",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-108.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/pyDWPcijf8zLmQM7JMVWEQ",
+        "alt": "",
+        "title": "北京积水潭医院召开2026年工作部署会",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-109.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/pyDWPcijf8zLmQM7JMVWEQ",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-110.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/eMcvDlVPSL7MnbxDnwG-gA",
+        "alt": "",
+        "title": "招生公告丨 北京积水潭医院脊柱外科进修医师招生公告",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-111.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/aD4ZeBeuyp9A0VoAQebufg",
+        "alt": "",
+        "title": "招募启事丨北京积水潭医院营养科招募2型糖尿病患者参与塔格糖健康研究",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-112.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/siJUFdC2pyZM1Td1jCeM4w",
+        "alt": "",
+        "title": "北京积水潭医院2026年端午节门急诊工作安排",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-113.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/U1xuoL75SB4svOUmOrrTKg",
+        "alt": "",
+        "title": "招收公告丨北京积水潭医院医学检验中心质谱实验室进修班开始报名啦",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-114.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/-gXwQcrME5a3dP8NwYAP6w",
+        "alt": "",
+        "title": "招生简章丨北京积水潭医院脊柱外科寰枢椎3个月进修班招生通知",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-115.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/FpOh3ATKIzjUVUrSZpx82Q",
+        "alt": "",
+        "title": "义诊预告丨2026年全民营养周联合义诊活动即将开始",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-116.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/az8DJapDqhSG9lE5QmAxPQ",
+        "alt": "",
+        "title": "招生简章丨北京积水潭医院2026年秋季临床药师培训开始招生啦",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-117.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/YcqIpWQBFaJv3P316HG2KA",
+        "alt": "",
+        "title": "北京积水潭医院2026年清明节门急诊工作安排",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-118.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/pymrLS3ToOEYy7Oexj5BFg",
+        "alt": "",
+        "title": "招聘公告丨首都医科大学附属北京积水潭医院2026年公开招聘公告（第四批）",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/jishuitan-119.img"
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "EWM",
+        "id": ""
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "boai",
+    "name": "中国康复研究中心北京博爱医院",
+    "shortName": "北京博爱医院",
+    "officialSite": "https://www.crrc.com.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.crrc.com.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/boai-1.jpg"
+      },
+      {
+        "tag": "a",
+        "url": "https://article.xuexi.cn/articles/index.html?art_id=17597044478869594926&item_id=17597044478869594926&reedit_timestamp=1758651083000&to_audit_timestamp=2025-09-24+11%3A11%3A38&study_style_id=feeds_default&pid=&ptype=-1&source=share&share_to=wx_single",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/boai-2.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://article.xuexi.cn/articles/index.html?art_id=17597044478869594926&item_id=17597044478869594926&reedit_timestamp=1758651083000&to_audit_timestamp=2025-09-24+11%3A11%3A38&study_style_id=feeds_default&pid=&ptype=-1&source=share&share_to=wx_single",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/boai-3.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/5wRiY0VYfc0Z1EtCMwC7XQ",
+        "alt": "",
+        "title": "国务院残疾人工作委员会关于印发《残疾人保障和发展“十五五”规划》的通知 残工委发〔2026〕4号",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/boai-4.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/5wRiY0VYfc0Z1EtCMwC7XQ",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/boai-5.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/4dl1GY7rRx-Gy1fnvtAl3Q",
+        "alt": "",
+        "title": "国务院关于《残疾人保障和发展“十五五”规划》的批复",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/boai-6.img"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "fuwai",
+    "name": "中国医学科学院阜外医院",
+    "shortName": "阜外医院",
+    "officialSite": "https://www.fuwai.com",
+    "candidates": [
+      {
+        "tag": "a",
+        "url": "https://www.fuwai.com",
+        "alt": "",
+        "title": "",
+        "class": "weixin",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/fuwai-0.img"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "pumc_plastic",
+    "name": "中国医学科学院整形外科医院",
+    "shortName": "八大处整形医院",
+    "officialSite": "https://www.zhengxing.com.cn",
+    "candidates": [
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/c1g7Vk86vy9_pjG_bPmgZA",
+        "alt": "",
+        "title": "",
+        "class": "list-item",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-0.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/vPmuKdLGYJx65aYTHU-ZnQ",
+        "alt": "",
+        "title": "",
+        "class": "list-item",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-1.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/IltR0b_IQ2L0z0RBzpDLtw",
+        "alt": "",
+        "title": "",
+        "class": "news-item",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-2.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/yv-RqqrLPdLMknoh0PY-PA",
+        "alt": "",
+        "title": "",
+        "class": "news-item",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-3.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/MeiMCKRCXFYePThPD_16XQ",
+        "alt": "",
+        "title": "",
+        "class": "news-item",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-4.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/HXpJesOgIB6tXYOjqBPfsg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-5.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/NDBH2jP9E_3jUz7mzT3TqQ",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-6.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/U3PGbwvvtls14mE9dYGbxQ",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-7.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/xzsDOyAyMzWp7LEpLm9KIw",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-8.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/4kHVq98ZFu2-fCLTdbgxKg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-9.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/LPYtT1SpIEEHfOhjTv9cvw",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-10.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/zCdzzJguheWh6g6VA2qGUA",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-11.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/zJdq1p9F59jyAMdGfYRDhQ",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-12.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/1wSTH3p0mLiFBZiE1KoK-w",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-13.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/HT6iJZm4MO2iSc3FjCcItQ",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-14.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/MENEmucHxtvG7XEKUAE4CA",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-15.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/_y2ptPDDCdr3B_z1-vu9aA",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-16.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/TDm6VkX0Oab3ZGHYmuHfWg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-17.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/bEbWZ4M1zDUnILTfU9uOLw",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-18.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/vN-IOV4McLtqFjZZj5lO7A",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-19.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/56o3iwHovp8qg4TBMsFACQ",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-20.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/KToAZodJsBYEYrojfzVYyQ",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-21.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/iopYqCAMfnYhLPZztEeCYw",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-22.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/8fksKvUrk8fNeNKNSaJMpA",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-23.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/A3-s6o0EQAjXOSSoSCZ99g",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-24.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/dO9HYos3CBIayGC3q58tvQ",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-25.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/sXxo4IjNnPqeTY6xUlb04Q",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-26.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Df-Ht1Xd_X2iZcLic1S6Pg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-27.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/DZSDy5ucm0LeuF2Bazu_MQ",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-28.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/23aZspj0FpB5EqKaJ8dkdg",
+        "alt": "",
+        "title": "",
+        "class": "link-item",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-29.img"
+      },
+      {
+        "tag": "img",
+        "url": "https://www.zhengxing.com.cn/images/image/icon/footer-wx.png",
+        "alt": "微信",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pumc_plastic-30.png"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "cicams",
+    "name": "中国医学科学院肿瘤医院",
+    "shortName": "医科院肿瘤医院",
+    "officialSite": "https://www.cicams.ac.cn",
+    "candidates": [
+      {
+        "tag": "a",
+        "url": "javascript:;",
+        "alt": "",
+        "title": "",
+        "class": "share-item suds-mod xicon icon-wx",
+        "id": "",
+        "downloadError": "<urlopen error unknown url type: javascript>"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "pkuh6",
+    "name": "北京大学第六医院",
+    "shortName": "北大六院",
+    "officialSite": "https://www.pkuh6.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "a",
+        "url": "https://www.pkuh6.cn/Html/News/Articles/101287.html",
+        "alt": "",
+        "title": "北京大学第六医院微信小程序正式上线！请查收在线预约挂号缴费全攻略",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuh6-1.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://www.pkuh6.cn/Html/News/Articles/6837.html",
+        "alt": "",
+        "title": "关于北京大学第六医院服务号停用的通知",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuh6-2.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://www.pkuh6.cn/Html/News/Articles/4914.html",
+        "alt": "",
+        "title": "北京大学第六医院微信小程序正式上线！请查收在线预约挂号缴费全攻略",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuh6-3.img"
+      },
+      {
+        "tag": "img",
+        "url": "http://www.pkuh6.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuh6-4.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "pkuss",
+    "name": "北京大学口腔医院",
+    "shortName": "北大口腔医院",
+    "officialSite": "https://ss.bjmu.edu.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "http://ss.bjmu.edu.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "downloadError": "HTTP Error 404: Not Found"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Wpck7xucU4A75951mfMByQ?scene=1",
+        "alt": "",
+        "title": "北大口腔这2名专家即将启程援藏援疆",
+        "class": "img_box",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-2.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Wpck7xucU4A75951mfMByQ?scene=1",
+        "alt": "",
+        "title": "北大口腔这2名专家即将启程援藏援疆",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-3.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Wpck7xucU4A75951mfMByQ?scene=1",
+        "alt": "",
+        "title": "",
+        "class": "details",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-4.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/dJ3MPe6BA8apsYwS2Djmfg",
+        "alt": "",
+        "title": "传承延安精神 奋勉砥砺前行 北大口腔开展2026年第二期中层干部培训",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-5.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/SHOJqqpn9MkdHPnHnKxrKQ",
+        "alt": "",
+        "title": "我院国际合作研究论文在《自然-通讯》杂志上发表",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-6.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/0bHdneuJlnLoZgOW4pP36w",
+        "alt": "",
+        "title": "正畸科郭润智获美国正畸协会最佳年度病例奖",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-7.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/DpHIJ-ar9qlXHCPZAEDWiQ",
+        "alt": "",
+        "title": "正畸科韩冰教授团队论文获评《生物活性材料》杂志2023年最佳论文奖",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-8.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/QE_NyTgHiSo_P13cyYUMAA",
+        "alt": "",
+        "title": "第四届北大正畸高峰论坛的通知",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-9.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/E8txsiIUgbuCVIlOq6Z6Lw",
+        "alt": "",
+        "title": "习近平总书记回信勉励中国青年五四奖章暨新时代青年先锋奖获奖者在北大口腔青年中引发热烈反响",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-10.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/dhs8FrQ5dl8CeFEKm3l04w",
+        "alt": "",
+        "title": "祝贺北大口腔吕珑薇荣获“2026年新时代青年先锋奖”",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-11.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/DTxUPKc0GfwKDtitNpcWuw",
+        "alt": "",
+        "title": "了解这些，让健康从“齿”开始｜全国爱牙日",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-12.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/uOXbJbCTgpcyLZdLP-I-xw",
+        "alt": "",
+        "title": "牙齿美白，小北有话说……",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-13.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/dJ3MPe6BA8apsYwS2Djmfg",
+        "alt": "",
+        "title": "传承延安精神 奋勉砥砺前行 北大口腔开展2026年第二期中层干部培训",
+        "class": "img_box",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-14.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/dJ3MPe6BA8apsYwS2Djmfg",
+        "alt": "",
+        "title": "传承延安精神 奋勉砥砺前行 北大口腔开展2026年第二期中层干部培训",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-15.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/dJ3MPe6BA8apsYwS2Djmfg",
+        "alt": "",
+        "title": "点击查看详细",
+        "class": "detail",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-16.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/_wUARMEgl84RAcsx1q_xjQ",
+        "alt": "",
+        "title": "北大口腔开展2026年第一期中层干部培训",
+        "class": "img_box",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-17.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/_wUARMEgl84RAcsx1q_xjQ",
+        "alt": "",
+        "title": "北大口腔开展2026年第一期中层干部培训",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-18.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/_wUARMEgl84RAcsx1q_xjQ",
+        "alt": "",
+        "title": "点击查看详细",
+        "class": "detail",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-19.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/R3A0TqKiX9VGSNGXsSjRBg",
+        "alt": "",
+        "title": "喜报丨北大口腔邓旭亮教授团队荣获2025年国家科技进步二等奖",
+        "class": "img_box",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-20.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/R3A0TqKiX9VGSNGXsSjRBg",
+        "alt": "",
+        "title": "喜报丨北大口腔邓旭亮教授团队荣获2025年国家科技进步二等奖",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-21.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/R3A0TqKiX9VGSNGXsSjRBg",
+        "alt": "",
+        "title": "点击查看详细",
+        "class": "detail",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-22.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/_KzxDP5lmGiDGAbra59k1Q",
+        "alt": "",
+        "title": "王光和教授百年诞辰纪念大会暨2026年唇腭裂序列治疗区域培训班成功举办",
+        "class": "img_box",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-23.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/_KzxDP5lmGiDGAbra59k1Q",
+        "alt": "",
+        "title": "王光和教授百年诞辰纪念大会暨2026年唇腭裂序列治疗区域培训班成功举办",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-24.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/_KzxDP5lmGiDGAbra59k1Q",
+        "alt": "",
+        "title": "点击查看详细",
+        "class": "detail",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-25.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/EI-UIkiFTBlrYDpUK2ob9g",
+        "alt": "",
+        "title": "北京大学口腔医学院第二届“口腔医学教育管理师资培训班” 成功举办",
+        "class": "img_box",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-26.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/EI-UIkiFTBlrYDpUK2ob9g",
+        "alt": "",
+        "title": "北京大学口腔医学院第二届“口腔医学教育管理师资培训班” 成功举办",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-27.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/EI-UIkiFTBlrYDpUK2ob9g",
+        "alt": "",
+        "title": "点击查看详细",
+        "class": "detail",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-28.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/I7Itxbzf0AzOzG-njJvGxQ",
+        "alt": "",
+        "title": "北大口腔蔡志刚教授当选中国医师协会显微外科医师分会副会长",
+        "class": "img_box",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-29.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/I7Itxbzf0AzOzG-njJvGxQ",
+        "alt": "",
+        "title": "北大口腔蔡志刚教授当选中国医师协会显微外科医师分会副会长",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-30.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/I7Itxbzf0AzOzG-njJvGxQ",
+        "alt": "",
+        "title": "点击查看详细",
+        "class": "detail",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-31.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Wpck7xucU4A75951mfMByQ?scene=1",
+        "alt": "",
+        "title": "北大口腔这2名专家即将启程援藏援疆",
+        "class": "img_box",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-32.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Wpck7xucU4A75951mfMByQ?scene=1",
+        "alt": "",
+        "title": "北大口腔这2名专家即将启程援藏援疆",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-33.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/Wpck7xucU4A75951mfMByQ?scene=1",
+        "alt": "",
+        "title": "点击查看详细",
+        "class": "detail",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-34.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/XHH7cHGGwnMBUcCkzkN9Uw",
+        "alt": "",
+        "title": "深化环太平洋高校学术合作 | 第三届环太平洋名校联盟研讨会在京顺利举办",
+        "class": "img_box",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-35.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/XHH7cHGGwnMBUcCkzkN9Uw",
+        "alt": "",
+        "title": "深化环太平洋高校学术合作 | 第三届环太平洋名校联盟研讨会在京顺利举办",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-36.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/XHH7cHGGwnMBUcCkzkN9Uw",
+        "alt": "",
+        "title": "点击查看详细",
+        "class": "detail",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-37.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/WDLthiA_lz2RoZmvzXKf4g",
+        "alt": "",
+        "title": "八秩口腔 再启新航丨北大口腔建院80周年学术活动成功举办",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-38.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/80LwqrXafTuIsFUYLg8F_g",
+        "alt": "",
+        "title": "发布｜首届北大口腔杰出校友 优秀校友名单",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-39.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/qDz8wKIZBNZXFoeFPosiWQ",
+        "alt": "",
+        "title": "百十北医｜北大口腔校友今天回家了！",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-40.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/SHOJqqpn9MkdHPnHnKxrKQ",
+        "alt": "",
+        "title": "我院国际合作研究论文在《自然-通讯》杂志上发表",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-41.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/0bHdneuJlnLoZgOW4pP36w",
+        "alt": "",
+        "title": "正畸科郭润智获美国正畸协会最佳年度病例奖",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-42.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/DpHIJ-ar9qlXHCPZAEDWiQ",
+        "alt": "",
+        "title": "正畸科韩冰教授团队论文获评《生物活性材料》杂志2023年最佳论文奖",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-43.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/DTxUPKc0GfwKDtitNpcWuw",
+        "alt": "",
+        "title": "了解这些，让健康从“齿”开始｜全国爱牙日",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-44.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/uOXbJbCTgpcyLZdLP-I-xw",
+        "alt": "",
+        "title": "牙齿美白，小北有话说……",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-45.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://ss.bjmu.edu.cn",
+        "alt": "",
+        "title": "",
+        "class": "weixin",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuss-46.img"
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "weixin_box",
+        "id": ""
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "bjcancer",
+    "name": "北京大学肿瘤医院",
+    "shortName": "北大肿瘤医院",
+    "officialSite": "https://www.bjcancer.org",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjcancer.org.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bjcancer-1.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "ditan",
+    "name": "首都医科大学附属北京地坛医院",
+    "shortName": "北京地坛医院",
+    "officialSite": "https://www.bjdth.com",
+    "candidates": [
+      {
+        "tag": "img",
+        "url": "https://www.bjdth.com/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/ditan-0.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "youan",
+    "name": "首都医科大学附属北京佑安医院",
+    "shortName": "北京佑安医院",
+    "officialSite": "https://www.bjyah.com",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjyayy.com.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/youan-1.jpg"
+      },
+      {
+        "tag": "a",
+        "url": "",
+        "alt": "",
+        "title": "微信二维码",
+        "class": "weixin",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjyah.com/Content/Areas/Common/images/ho_36_0_.jpg",
+        "alt": "",
+        "title": "",
+        "class": "weixin_img",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/youan-3.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "bch",
+    "name": "首都医科大学附属北京儿童医院",
+    "shortName": "北京儿童医院",
+    "officialSite": "http://www.bch.com.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bch.com.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bch-1.jpg"
+      },
+      {
+        "tag": "a",
+        "url": "http://www.bch.com.cn/Html/News/Articles/21574.html",
+        "alt": "",
+        "title": "微信小程序移动支付宣传",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bch-2.img"
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "weixin left_wx",
+        "id": ""
+      },
+      {
+        "tag": "span",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "weixin_span",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "weixin floatR",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "weixin floatR temp_wx",
+        "id": ""
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "bjogh",
+    "name": "首都医科大学附属北京妇产医院",
+    "shortName": "北京妇产医院",
+    "officialSite": "https://www.bjogh.com.cn",
+    "candidates": [
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/qyTVaSAI07buN8dXtaU00A",
+        "alt": "",
+        "title": "",
+        "class": "sidebar-item",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bjogh-0.img"
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "qr-popup",
+        "id": "weiboQRPopup"
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "qr-content",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "qr-title",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "qr-code",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://bjogh.com.cn/images/wei-4.png",
+        "alt": "微博二维码",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bjogh-5.png"
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "qr-tip",
+        "id": ""
+      },
+      {
+        "tag": "a",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "link",
+        "id": "wechatShareBtn"
+      },
+      {
+        "tag": "img",
+        "url": "https://bjogh.com.cn/images/weixin.png",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bjogh-8.png"
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "qr-popup",
+        "id": "wechatQRPopup"
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "qr-content",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "qr-title",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "qr-code",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://bjogh.com.cn/images/wei-3.png",
+        "alt": "微信二维码",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bjogh-13.png"
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "qr-tip",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "weixin",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "weixin-info",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "weixin",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "weixin-info",
+        "id": ""
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "bj_stomatological",
+    "name": "首都医科大学附属北京口腔医院",
+    "shortName": "北京口腔医院",
+    "officialSite": "https://www.dentist.org.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.dentist.org.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-1.jpg"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/xJbsHyrbYb2OZLDy-AiA0Q",
+        "alt": "",
+        "title": "老塞牙？直接问专家",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-2.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/oycBPsLFhdaLn4-c8zT_BQ",
+        "alt": "",
+        "title": "关注老年健康，从口腔开始",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-3.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/cKxkmvXuOGDY6qmMtAWreA",
+        "alt": "",
+        "title": "适时寻求专业帮助",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-4.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/eRikic7smh61RqXObneHGQ",
+        "alt": "",
+        "title": "乳牙龋的危害",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-5.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/JDLrR4GXpia0JKfyjWNW9w",
+        "alt": "",
+        "title": "牙齿矫正时机",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-6.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/51EO9jhIDxeRx07tKbep_g",
+        "alt": "",
+        "title": "定期口腔检查，口腔疾病可防可控",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-7.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/R7EfRpncm4kBR1021Qs9qg",
+        "alt": "",
+        "title": "孕期别让牙病来捣乱",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-8.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/bCwxuTjVPOGiDsTbz8YTJQ",
+        "alt": "",
+        "title": "孕妇的健康生活，保证宝宝健康成长",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-9.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=eWw4DAAABwD80a1FAAAUAA&mfid=WW0317-fP-3iAAABwBM48EWsK8udQM2Oe272&idx=0&sn=784c20e8aa2f15632662175b918969d7",
+        "alt": "",
+        "title": "北京口腔医院领导班子召开2022年度民主生活会",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-10.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=eWw4DAAABwD80a1FAAAUAA&mfid=WW0315-HDzBsAAABwAsIPcuPXsbTQJ-DQ272&idx=0&sn=21337d75fb6f43147732c714490f264e",
+        "alt": "",
+        "title": "市医管中心领导到我院宣讲党的二十大精神",
+        "class": "title_type",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-11.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/If1B_WFEucfQMXhGbwi2Rg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-12.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/If1B_WFEucfQMXhGbwi2Rg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-13.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://www.dentist.org.cn/Hospitals/DiseaseSymptoms",
+        "alt": "",
+        "title": "",
+        "class": "order_box_wx",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bj_stomatological-14.img"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "bjxk",
+    "name": "首都医科大学附属北京胸科医院",
+    "shortName": "北京胸科医院",
+    "officialSite": "https://www.bjxkyy.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjxkyy.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bjxk-1.jpg"
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjxkyy.cn/Content/Areas/Hospitals/images/Boot/wechat.png",
+        "alt": "",
+        "title": "",
+        "class": "transition",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bjxk-2.png"
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjxkyy.cn/Content/Areas/Hospitals/images/Main/weixin.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bjxk-3.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "anding",
+    "name": "首都医科大学附属北京安定医院",
+    "shortName": "北京安定医院",
+    "officialSite": "https://www.bjad.com.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.bjad.com.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/anding-1.jpg"
+      },
+      {
+        "tag": "li",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "wechat",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "wxbox",
+        "id": ""
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "shouer",
+    "name": "首都儿科研究所附属儿童医院",
+    "shortName": "儿研所",
+    "officialSite": "https://www.shouer.com.cn",
+    "candidates": [
+      {
+        "tag": "a",
+        "url": "javascript:;",
+        "alt": "",
+        "title": "",
+        "class": "share-item xicon suds-mod icon-wx",
+        "id": "",
+        "downloadError": "<urlopen error unknown url type: javascript>"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "huilongguan",
+    "name": "北京回龙观医院",
+    "shortName": "回龙观医院",
+    "officialSite": "https://www.bhlgh.com",
+    "candidates": [],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "xiyuan",
+    "name": "中国中医科学院西苑医院",
+    "shortName": "西苑医院",
+    "officialSite": "https://www.xyhospital.com",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.xyhospital.com/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/xiyuan-1.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "guang_an_men",
+    "name": "中国中医科学院广安门医院",
+    "shortName": "广安门医院",
+    "officialSite": "https://www.gamhospital.ac.cn",
+    "candidates": [],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1129)>"
+  },
+  {
+    "id": "wangjing",
+    "name": "中国中医科学院望京医院",
+    "shortName": "望京医院",
+    "officialSite": "https://www.wjhospital.com.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "wx",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "wx",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.wjhospital.com.cn//Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/wangjing-3.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "dongzhimen",
+    "name": "北京中医药大学东直门医院",
+    "shortName": "东直门医院",
+    "officialSite": "https://www.dzmyy.com.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.dzmyy.com.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/dongzhimen-1.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "dongfang",
+    "name": "北京中医药大学东方医院",
+    "shortName": "东方医院",
+    "officialSite": "https://www.dfyynet.com",
+    "candidates": [],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "bj_tcm",
+    "name": "首都医科大学附属北京中医医院",
+    "shortName": "北京中医医院",
+    "officialSite": "https://www.bjzhongyi.com",
+    "candidates": [
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewmbox clear",
+        "id": ""
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "bucm_third",
+    "name": "北京中医药大学第三附属医院",
+    "shortName": "北中医三附院",
+    "officialSite": "https://www.zydsy.com",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.zydsy.com/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/bucm_third-1.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "cpzxy",
+    "name": "北京市昌平区中西医结合医院",
+    "shortName": "昌平区中西医结合医院",
+    "officialSite": "https://www.cpxzxy.com",
+    "candidates": [],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "btch",
+    "name": "北京清华长庚医院",
+    "shortName": "清华长庚医院",
+    "officialSite": "http://www.btch.edu.cn",
+    "candidates": [
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/BpzIhhaJTldFfcxXrEB6Gw",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-0.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/BpzIhhaJTldFfcxXrEB6Gw",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-1.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/v8-0YpXN4nDMI8Zun_-4Mg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-2.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/v8-0YpXN4nDMI8Zun_-4Mg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-3.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/y7_HdZ0oklGLiHW2fk8Qjw",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-4.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/y7_HdZ0oklGLiHW2fk8Qjw",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-5.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/gdSTxJSWj630HiYdYcyS2g",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-6.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/gdSTxJSWj630HiYdYcyS2g",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-7.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/fAz5pYMwoBGYJchHL_5pBw",
+        "alt": "",
+        "title": "",
+        "class": "item-title fpx16",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-8.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/r8WpuVsNLk0JX_NSVx8JEQ",
+        "alt": "",
+        "title": "",
+        "class": "item-title fpx16",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-9.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/qo6MKnLz_cg9eRZnLWm1Gw",
+        "alt": "",
+        "title": "",
+        "class": "item-title fpx16",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-10.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/AqQbFQaPddwtQlcdlRm-kw",
+        "alt": "",
+        "title": "",
+        "class": "item-title fpx16",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-11.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/YuSfZOFWhtuc8g9eVWhFIQ",
+        "alt": "",
+        "title": "",
+        "class": "item-title fpx16",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-12.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/P8GnV2VkavhNIBmtX3Eh5Q",
+        "alt": "",
+        "title": "",
+        "class": "item-title fpx16",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-13.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/bg3SUre4_4NvPt9-QVAsjQ?version=4.1.22.6009&platform=win",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-14.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://h.xinhuaxmt.com/vh512/share/13147213?docid=13147213&newstype=1001&d=1352704&channel=weixin",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-15.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://h.xinhuaxmt.com/vh512/share/13008030?docid=13008030&newstype=1001&d=13525dc&channel=weixin",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-16.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/nCZeqVxUa-xAYPhLaCFUVA",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/btch-17.img"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "yuquan",
+    "name": "清华大学玉泉医院",
+    "shortName": "玉泉医院",
+    "officialSite": "http://www.yuquanhosp.com",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.yuquanhosp.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/yuquan-1.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "beijing_geriatric",
+    "name": "北京老年医院",
+    "shortName": "北京老年医院",
+    "officialSite": "https://www.lnyy.com.cn",
+    "candidates": [
+      {
+        "tag": "meta",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": ""
+      },
+      {
+        "tag": "img",
+        "url": "https://www.lnyy.com.cn/Content/Areas/Common/images/logo/wxShare.jpg",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/beijing_geriatric-1.jpg"
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "luhe",
+    "name": "首都医科大学附属北京潞河医院",
+    "shortName": "北京潞河医院",
+    "officialSite": "https://www.luhehospital.com",
+    "candidates": [],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "pla_general",
+    "name": "中国人民解放军总医院",
+    "shortName": "解放军总医院",
+    "officialSite": "https://www.plagh.cn",
+    "candidates": [],
+    "error": "<urlopen error [Errno 61] Connection refused>"
+  },
+  {
+    "id": "pla_305",
+    "name": "中国人民解放军第三〇五医院",
+    "shortName": "解放军305医院",
+    "officialSite": "http://www.hospital305.com",
+    "candidates": [],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "pla_airforce",
+    "name": "中国人民解放军空军特色医学中心",
+    "shortName": "空军特色医学中心",
+    "officialSite": "https://www.kj-hospital.com",
+    "candidates": [],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)>"
+  },
+  {
+    "id": "pla_general_ninth",
+    "name": "中国人民解放军总医院第九医学中心",
+    "shortName": "解放军总医院第九医学中心",
+    "officialSite": "https://www.306.cn",
+    "candidates": [],
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "pla_general_second",
+    "name": "中国人民解放军总医院第二医学中心",
+    "shortName": "解放军总医院第二医学中心",
+    "officialSite": "https://www.301hospital.com.cn",
+    "candidates": [
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewm",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "官方微信",
+        "class": "icon icon3",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewm",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewm",
+        "id": ""
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "pla_general_third",
+    "name": "中国人民解放军总医院第三医学中心",
+    "shortName": "解放军总医院第三医学中心",
+    "officialSite": "https://www.301hospital.com.cn",
+    "candidates": [
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewm",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "官方微信",
+        "class": "icon icon3",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewm",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewm",
+        "id": ""
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "pla_general_fourth",
+    "name": "中国人民解放军总医院第四医学中心",
+    "shortName": "解放军总医院第四医学中心",
+    "officialSite": "https://www.301hospital.com.cn",
+    "candidates": [
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewm",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "官方微信",
+        "class": "icon icon3",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewm",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewm",
+        "id": ""
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "pla_general_fifth",
+    "name": "中国人民解放军总医院第五医学中心",
+    "shortName": "解放军总医院第五医学中心",
+    "officialSite": "http://www.302hospital.com",
+    "candidates": [],
+    "error": ""
+  },
+  {
+    "id": "pla_general_fifth_south",
+    "name": "中国人民解放军总医院第五医学中心南院区",
+    "shortName": "解放军总医院第五医学中心南院区",
+    "officialSite": "http://www.307hospital.com",
+    "candidates": [],
+    "error": ""
+  },
+  {
+    "id": "pla_general_sixth",
+    "name": "中国人民解放军总医院第六医学中心",
+    "shortName": "解放军总医院第六医学中心",
+    "officialSite": "http://www.hjzyy.com.cn",
+    "candidates": [],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "pla_general_seventh",
+    "name": "中国人民解放军总医院第七医学中心",
+    "shortName": "解放军总医院第七医学中心",
+    "officialSite": "https://www.301hospital.com.cn",
+    "candidates": [
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewm",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "官方微信",
+        "class": "icon icon3",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewm",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "ewm",
+        "id": ""
+      }
+    ],
+    "error": ""
+  },
+  {
+    "id": "pla_general_eighth",
+    "name": "中国人民解放军总医院第八医学中心",
+    "shortName": "解放军总医院第八医学中心",
+    "officialSite": "http://www.309yy.cn",
+    "candidates": [],
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "id": "pla_airforce_north",
+    "name": "中国人民解放军空军特色医学中心北院区",
+    "shortName": "空军特色医学中心北院区",
+    "officialSite": "http://www.kj-hospital.com",
+    "candidates": [],
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "id": "pkuih",
+    "name": "北京大学国际医院",
+    "shortName": "北大国际医院",
+    "officialSite": "https://www.pkuih.edu.cn",
+    "candidates": [
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/vIo2mF6LY4QBVfj8-KYWbA",
+        "alt": "",
+        "title": "",
+        "class": "img",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuih-0.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/vIo2mF6LY4QBVfj8-KYWbA",
+        "alt": "",
+        "title": "",
+        "class": "fnt24 r_tit",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuih-1.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/4BB80AIF1WiJ3C-d48Lj_w",
+        "alt": "",
+        "title": "",
+        "class": "img1",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuih-2.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/4BB80AIF1WiJ3C-d48Lj_w",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuih-3.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/YV9J-eXPU3RLcBzISIk70Q",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuih-4.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/du6JiyOsgamupeZGbic6AA",
+        "alt": "",
+        "title": "",
+        "class": "img3",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuih-5.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/du6JiyOsgamupeZGbic6AA",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuih-6.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/GoCllMgxOZIzi0JqUSPGWw",
+        "alt": "",
+        "title": "",
+        "class": "img4",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuih-7.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/GoCllMgxOZIzi0JqUSPGWw",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuih-8.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/bcsVY68hT-yK0Pg9Vzq-iQ",
+        "alt": "",
+        "title": "",
+        "class": "img1",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuih-9.img"
+      },
+      {
+        "tag": "a",
+        "url": "https://mp.weixin.qq.com/s/bcsVY68hT-yK0Pg9Vzq-iQ",
+        "alt": "",
+        "title": "",
+        "class": "",
+        "id": "",
+        "localPath": "frontend-prototype/assets/wechat-qrcodes/pkuih-10.img"
+      },
+      {
+        "tag": "a",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "wechat",
+        "id": ""
+      },
+      {
+        "tag": "div",
+        "url": "",
+        "alt": "",
+        "title": "",
+        "class": "fnt12 wechat_code",
+        "id": ""
+      }
+    ],
+    "error": ""
+  }
+]

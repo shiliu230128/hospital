@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>挂号比选工作台</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand-block">
+          <div class="brand-mark" aria-hidden="true">
+            <span></span>
+          </div>
+          <div>
+            <h1>挂号比选工作台</h1>
+            <p id="sourceSummary">正在载入公开出诊样本</p>
+          </div>
+        </div>
+        <div class="top-metrics" aria-label="数据概览">
+          <div>
+            <strong id="metricHospitals">0</strong>
+            <span>医院</span>
+          </div>
+          <div>
+            <strong id="metricSchedules">0</strong>
+            <span>排班</span>
+          </div>
+        </div>
+      </header>
+
+      <section class="command-bar" aria-label="查询条件">
+        <label>
+          <span>城市</span>
+          <select id="citySelect">
+            <option value="北京">北京</option>
+            <option value="上海">上海</option>
+            <option value="深圳">深圳</option>
+            <option value="杭州">杭州</option>
+          </select>
+        </label>
+        <label>
+          <span>分区</span>
+          <select id="districtSelect">
+            <option value="all">全城</option>
+            <option value="东城">东城</option>
+            <option value="西城">西城</option>
+            <option value="海淀">海淀</option>
+            <option value="朝阳">朝阳</option>
+            <option value="丰台">丰台</option>
+          </select>
+        </label>
+        <label class="search-field">
+          <span>搜索</span>
+          <input id="searchInput" type="search" placeholder="科室、症状、医生、医院" autocomplete="off" />
+        </label>
+        <label>
+          <span>日期</span>
+          <select id="dateSelect">
+            <option value="all">全部日期</option>
+            <option value="weekend">只看周末</option>
+          </select>
+        </label>
+        <div class="segmented" role="group" aria-label="时段">
+          <button class="segment is-active" data-slot="all" type="button">全部</button>
+          <button class="segment" data-slot="上午" type="button">上午</button>
+          <button class="segment" data-slot="下午" type="button">下午</button>
+        </div>
+        <label class="field-stack location-field">
+          <span>位置参考</span>
+          <input id="locationInput" list="locationOptions" type="search" placeholder="输入或选择街道" autocomplete="off" />
+          <datalist id="locationOptions"></datalist>
+        </label>
+        <label class="check-row top-check">
+          <input id="officialOnly" type="checkbox" checked />
+          <span>优先官方入口</span>
+        </label>
+        <label class="field-stack sort-field">
+          <span>排序</span>
+          <select id="sortSelect">
+            <option value="default">综合推荐</option>
+            <option value="distance">离参考位置近</option>
+            <option value="scheduleCount">排班多</option>
+            <option value="recent">最近公开出诊</option>
+          </select>
+        </label>
+        <button id="resetFilters" class="icon-button text-button" type="button" title="清空筛选">
+          <span class="button-icon" aria-hidden="true">×</span>
+          <span>清空</span>
+        </button>
+      </section>
+
+      <main id="workspace" class="workspace">
+        <aside class="filter-pane" aria-label="科室与筛选">
+          <section class="panel-section">
+            <div class="section-heading">
+              <h2>常见科室</h2>
+              <span id="activeDepartmentLabel">全部</span>
+            </div>
+            <div id="departmentNav" class="department-nav"></div>
+          </section>
+
+          <section class="panel-section source-note">
+            <div class="data-scale">
+              <span class="level-dot l0"></span>
+              <span>L0 入口</span>
+              <span class="level-dot l1"></span>
+              <span>L1 公开出诊</span>
+            </div>
+            <p>公开排班不等于实时余号；当前样本需跳转官方入口确认。</p>
+          </section>
+        </aside>
+
+        <section class="results-pane" aria-label="医院列表">
+          <div class="pane-head">
+            <div>
+              <h2>医院/院区</h2>
+              <p id="resultSummary">0 家匹配</p>
+            </div>
+            <label class="data-only-toggle">
+              <input id="withScheduleOnly" type="checkbox" />
+              <span>仅看有数据</span>
+            </label>
+          </div>
+          <div id="hospitalList" class="hospital-list"></div>
+        </section>
+
+        <section class="detail-pane" aria-label="医院详情">
+          <div id="detailContent" class="detail-content"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./prototype-data.js"></script>
+    <script src="./beijing-3a-hospitals.js"></script>
+    <script src="./wechat-entries.js"></script>
+    <script src="./location-points.js"></script>
+    <script src="./regional-city-data.js"></script>
+    <script src="./all-city-schedule-data.js"></script>
+    <script src="./generated/latest-report.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
