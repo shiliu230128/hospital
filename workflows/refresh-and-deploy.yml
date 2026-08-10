@@ -1,0 +1,94 @@
+name: Refresh data and deploy Pages
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  schedule:
+    # GitHub Actions uses UTC. This is 02:30 Beijing time.
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+    inputs:
+      with_wechat_fetch:
+        description: "Run the slower WeChat candidate crawl before deployment"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Refresh audit report and embedded sample data
+        if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.with_wechat_fetch != 'true' }}
+        run: python3 data-access-research/update_data_once.py --skip-wechat-fetch
+
+      - name: Refresh audit report and embedded sample data (with WeChat crawl)
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.with_wechat_fetch == 'true' }}
+        run: python3 data-access-research/update_data_once.py --with-wechat-fetch
+
+      - name: Validate registry and embedded data
+        run: python3 data-access-research/test_registry_integrity.py
+
+      - name: Refresh all-city public schedules
+        shell: bash
+        run: |
+          set +e
+          python3 data-access-research/all_city_data_pipeline.py \
+            --timeout 10 \
+            --sleep 0.2 \
+            --max-pages-per-hospital 5 \
+            --max-records-per-hospital 200 2>&1 | tee all-city-pipeline.log
+          status=${PIPESTATUS[0]}
+          set -e
+
+          if [[ "$status" -ne 0 ]]; then
+            if grep -q "no L1 records discovered" all-city-pipeline.log; then
+              echo "::warning::All-city crawl found 0 L1 records; keeping the previous frontend schedule data."
+            else
+              exit "$status"
+            fi
+          fi
+
+      - name: Validate frontend data package
+        run: python3 data-access-research/validate_all_city_pipeline.py
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: frontend-prototype
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
