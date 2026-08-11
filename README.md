@@ -2,8 +2,7 @@
 
 比较北京、上海、深圳、杭州主要医院（三甲/三级）的**官方挂号入口**和**已核验微信小程序/公众号二维码**，帮助快速选择挂号渠道。
 
-在线版：[部署到 GitHub Pages 后自动获得 `https://<用户名>.github.io/hospital/` 地址。
-](https://shiliu230128.github.io/hospital/)
+在线版：https://shiliu230128.github.io/hospital/
 ---
 
 ## 能做什么 / 不能做什么
